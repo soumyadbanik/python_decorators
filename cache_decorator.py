@@ -49,4 +49,4 @@ if __name__ =="__main__":
     print(fibonacci(6))
     print(fibonacci(10))
     print(fibonacci(30))
-    print(fibonacci(31))
+    print(fibonacci(31))   #should raise the value error
